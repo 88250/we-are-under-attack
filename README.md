@@ -14,6 +14,12 @@
 
 通过 GitHub 提供的搜索功能，使用自己服务器的公网 IP 搜索本库（“In this repository”）。
 
+## 来源
+
+* 七牛云融合 CDN 日志
+* 阿里云 DDoS 日志
+* B3log 服务器日志
+
 ## 鸣谢
 
 * [ip2region](https://github.com/lionsoul2014/ip2region)：最自由的 IP 地址查询库
