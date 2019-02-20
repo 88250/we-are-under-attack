@@ -1,4 +1,4 @@
-# We are under attack
+# We are under attack!
 
 本仓库用于记录 B3log 系列站点被攻击的记录，不定期更新。
 
