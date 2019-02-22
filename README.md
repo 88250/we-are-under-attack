@@ -1,8 +1,8 @@
 # We are under attack!
 
-本仓库用于记录 B3log 系列站点被攻击的记录，不定期更新，欢迎 Fork！
+本仓库用于记录 B3log 系列站点被 CC 和 DDoS 攻击的记录，不定期更新，欢迎 Fork！
 
-This repository is used to record the records of B3log series sites being attacked. It is updated from time to time. Welcome to Fork!
+This repository is used to record the records of B3log series sites attacked by CC and DDoS. It is updated from time to time. Welcome to Fork!
 
 ## 使用方式 Usages
 
