@@ -6,7 +6,7 @@
 
 使用你服务器的公网 IP，通过 GitHub 提供的搜索功能搜索本库（“In this repository”），从搜索命中结果来判断你的服务器是否已经沦为攻击者的肉鸡。
 
-如果你的 IP 出现在搜索结果中，可通过 issue 和我们联系，以便进一步确认细节。
+如果你的 IP 出现在搜索结果中，可通过[创建 issue](https://github.com/b3log/we-are-under-attack/issues/new) 和我们联系，以便进一步确认细节。
 
 ## 来源
 
