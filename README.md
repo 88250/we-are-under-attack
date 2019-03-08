@@ -1,8 +1,8 @@
 # We are under attack!
 
-本仓库用于记录 B3log 系列站点被 CC 和 DDoS 攻击的记录，不定期更新，欢迎 Fork！
+本仓库用于记录 B3log 系列站点被 CC 和 DDoS 攻击的记录，不定期更新。
 
-This repository is used to record the records of B3log series sites attacked by CC and DDoS. It is updated from time to time. Welcome to Fork!
+This repository is used to record the records of B3log series sites attacked by CC and DDoS. It is updated from time to time.
 
 ## 使用方式 Usages
 
@@ -12,7 +12,7 @@ This repository is used to record the records of B3log series sites attacked by 
 
 Use the public IP of your server to search the repo ("In this repository") through the search function provided by GitHub, and judge whether your server has become attacker's zombies by searching for hit results.
 
-If your IP appears in the search results, you can contact us via [Create issue](https://github.com/b3log/we-are-under-attack/issues/new) to further confirm the details.
+If your IP appears in the search results, you can contact us via [create issue](https://github.com/b3log/we-are-under-attack/issues/new) to further confirm the details.
 
 ## 数据来源 Data sources
 
