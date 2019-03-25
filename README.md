@@ -6,13 +6,9 @@ This repository is used to record the records of B3log series sites attacked by 
 
 ## 使用方式 Usages
 
-使用你服务器的公网 IP，通过 GitHub 提供的搜索功能搜索本库（“In this repository”），从搜索命中结果来判断你的服务器是否已经沦为攻击者的肉鸡。
+使用你服务器的公网 IP，通过 GitHub 提供的搜索功能搜索本库（“In this repository”），从搜索命中结果来判断你的服务器是否已经沦为攻击者的肉鸡。如果你的 IP 出现在搜索结果中，可通过[创建 issue](https://github.com/b3log/we-are-under-attack/issues/new) 和我们联系，以便进一步确认细节。
 
-如果你的 IP 出现在搜索结果中，可通过[创建 issue](https://github.com/b3log/we-are-under-attack/issues/new) 和我们联系，以便进一步确认细节。
-
-Use the public IP of your server to search the repo ("In this repository") through the search function provided by GitHub, and judge whether your server has become attacker's zombies by searching for hit results.
-
-If your IP appears in the search results, you can contact us via [create issue](https://github.com/b3log/we-are-under-attack/issues/new) to further confirm the details.
+Use the public IP of your server to search the repo ("In this repository") through the search function provided by GitHub, and judge whether your server has become attacker's zombies by searching for hit results. If your IP appears in the search results, you can contact us via [create issue](https://github.com/b3log/we-are-under-attack/issues/new) to further confirm the details.
 
 ## 数据来源 Data sources
 
@@ -25,7 +21,7 @@ If your IP appears in the search results, you can contact us via [create issue](
 The raw log data comes from some of the services B3log is using:
 
 * Qiniuyun fusion CDN log
-* Aliyun DDoS Log
+* Aliyun DDoS log
 * Application server log
 
 ## 鸣谢 Acknowledgement
